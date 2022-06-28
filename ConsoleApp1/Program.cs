@@ -1,9 +1,9 @@
 ﻿Line1:
-Console.WriteLine("Enter what you need");
+Console.WriteLine("Enter what you );
 var job = Console.ReadLine();
 if (job =="+")
 {
-    Console.WriteLine("Enter value1");
+    Console.WriteLine("E value1");
     var value1 = int.Parse(Console.ReadLine());
     Console.WriteLine ("Enter value2");
     var value2 = int.Parse(Console.ReadLine());
